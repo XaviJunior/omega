@@ -1,8 +1,9 @@
 # omega
 Omega DM-ML Project
-\n Team Omega: Aeby Xavier, Berguerand Tanguy, Meireles figueirinha Patrick & Tingström Tobias
-\n The goal
-\n The main research goal is to set a program for the constructors’ managers and engineers which can predict the maximum accrued Pitstop time that a team can afford depending on the:
+
+Team Omega: Aeby Xavier, Berguerand Tanguy, Meireles figueirinha Patrick & Tingström Tobias
+The goal
+The main research goal is to set a program for the constructors’ managers and engineers which can predict the maximum accrued Pitstop time that a team can afford depending on the:
 • Race time
 • Weather
 • Driver
