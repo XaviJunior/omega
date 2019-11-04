@@ -1,4 +1,4 @@
-# omega
+# Omega
 Omega DM-ML Project
 
 Team Omega: Aeby Xavier, Berguerand Tanguy, Meireles figueirinha Patrick & Tingström Tobias
