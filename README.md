@@ -7,4 +7,5 @@ To do it, we will use some text analytic and do classification.
 
 ## The Dataset<br>
 
-We found our dataset on Kaggle, it contains around 25000 labeled tweets. It has many different columns, in the first time, we will concentrate our project on the tweet and on the gender.
+We found our dataset on Kaggle, it contains around 25000 labeled tweets. It has many different columns, in the first time, we will concentrate our project on the tweet and on the gender. <br>
+https://www.kaggle.com/crowdflower/twitter-user-gender-classification
